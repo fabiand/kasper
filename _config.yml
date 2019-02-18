@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: '/kasper'
-domain_name: 'https://fabiand.github.io/kasper'
+baseurl: 'https://fabiand.github.io/kasper/'
+domain_name: 'https://fabiand.github.io/kasper/'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
