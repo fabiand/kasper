@@ -1,5 +1,5 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
+name: fabiand
+description: Dinge im Dunstkreis.
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: kramdown
@@ -7,7 +7,7 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'https://fabiand.github.io/kasper'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
